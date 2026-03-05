@@ -182,14 +182,6 @@ dotnet build
 
 ---
 
-## 5️⃣ Ejecutar el sistema
-
-```bash
-dotnet run
-```
-
----
-
 # 🧾 Archivo de Proyecto (.csproj)
 
 El proyecto está configurado con:
